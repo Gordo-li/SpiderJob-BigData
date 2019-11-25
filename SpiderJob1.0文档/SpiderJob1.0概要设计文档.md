@@ -14,4 +14,6 @@
 <img src="./function.png">
 ###流程描述
 <img src="./flow.png">
-2019-11-24
+###清洗字段分析  
+<img src="./Clean.png">  
+2019-11-24 zzj
